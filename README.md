@@ -1,6 +1,5 @@
-# MonikaMi
+# Monika and Robert - Mission Impossible with Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
 
 ## Development server
 
